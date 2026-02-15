@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="CapaEntidad/CapaEntidad.csproj" Id="f6938848-9094-4427-b524-14f5f182ec43" />
   <Project Path="Web.API/Web.API.csproj" Id="fdc3f9d6-5dd0-4c39-96de-d141d7df159e" />
+  <Project Path="WebCliente/WebCliente.csproj" Id="43e17fa7-8b19-4729-ab93-1689c2136a99" />
 </Solution>
